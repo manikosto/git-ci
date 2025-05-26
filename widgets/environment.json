@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "main" ],
+  "name" : "Branch"
+}, {
+  "values" : [ "82b6cfb9e73f348a0c13146332f8c1782b1c5770" ],
+  "name" : "Commit"
+}, {
+  "values" : [ "chrome" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "dev" ],
+  "name" : "Environment"
+} ]
