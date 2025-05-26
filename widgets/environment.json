@@ -8,6 +8,6 @@
   "values" : [ "chrome" ],
   "name" : "Browser"
 }, {
-  "values" : [ "dev" ],
+  "values" : [ "release" ],
   "name" : "Environment"
 } ]

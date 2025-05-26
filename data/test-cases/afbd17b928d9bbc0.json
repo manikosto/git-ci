@@ -1,0 +1,145 @@
+{
+  "uid" : "afbd17b928d9bbc0",
+  "name" : "Test Example 2",
+  "fullName" : "tests.test_example.TestExample#test_example_2",
+  "historyId" : "9ca033b82d8731833a604592d72d77b2",
+  "time" : {
+    "start" : 1748278633617,
+    "stop" : 1748278636046,
+    "duration" : 2429
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1748278632588,
+      "stop" : 1748278633616,
+      "duration" : 1028
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open page",
+      "time" : {
+        "start" : 1748278633617,
+        "stop" : 1748278636046,
+        "duration" : 2429
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "70d2b47602009473",
+        "name" : "Screenshot",
+        "source" : "70d2b47602009473.png",
+        "type" : "image/png",
+        "size" : 23412
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1748278636047,
+      "stop" : 1748278636120,
+      "duration" : 73
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature"
+  }, {
+    "name" : "epic",
+    "value" : "Example"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_example"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestExample"
+  }, {
+    "name" : "host",
+    "value" : "2db5df3b1953"
+  }, {
+    "name" : "thread",
+    "value" : "10-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_example"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ab14e0c79334b423",
+        "status" : "passed",
+        "time" : {
+          "start" : 1748278509284,
+          "stop" : 1748278512453,
+          "duration" : 3169
+        }
+      } ]
+    },
+    "tags" : [ "regression" ]
+  },
+  "source" : "afbd17b928d9bbc0.json",
+  "parameterValues" : [ ]
+}
